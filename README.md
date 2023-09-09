@@ -10,3 +10,5 @@ It uses the google slides api to interact and update tables.
 
 Keep in mind that the slides containing the tables must be in this format:
 `PageElement`, `Table`, `Table`. If your vocab list contains more entries than the allocated table, split the vocab list into 2 slides and repeat on a new slide. 
+
+To switch accounts, just delete the `token.json` file (which will be created if you have not logged in before).
