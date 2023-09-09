@@ -1,6 +1,6 @@
 # 📓 Chinese Notebook Vocab
-A little script I made in order to automate some a weekly assignment at school.
-It uses the google slides api to interact and update tables. 
+A little script I made in order to automate a weekly homework assignment at school.
+It uses the google slides api to update tables. 
 
 ## Usage
 1. Folow [these](https://developers.google.com/slides/api/quickstart/python) instructions and download `credentials.json` into this folder.
